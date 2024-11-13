@@ -1,0 +1,1 @@
+<p class="text-xs absolute right-2 bottom-2">Rudimentary Website*</p>
