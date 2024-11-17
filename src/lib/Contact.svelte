@@ -4,5 +4,4 @@
     <a href="https://www.linkedin.com/in/viswababu"><img src = "/linkedin.png" alt = "linkedin" class = "h-4"></a>
 </div>
 <div class = "w-full border-t border-t-black border-dashed h-8 absolute bottom-0 -z-10">
-
 </div>
