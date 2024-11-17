@@ -1,1 +1,1 @@
-<p class="text-xs absolute right-2 bottom-2">Rudimentary Website*</p>
+<p class="text-[0.5rem] font-semibold absolute right-2 bottom-2">Rudimentary Website*</p>

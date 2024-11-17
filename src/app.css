@@ -6,9 +6,13 @@ html{
     font-family: Montserrat;
 }
 
-@media only screen and (min-width: 640px){
+/* @media only screen and (min-width:640px){
     html,body{
         zoom:133%;
         margin: 0  auto;
     }
-}
+} */
+/* 
+html{
+    width: 390px;
+} */
